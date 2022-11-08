@@ -64,3 +64,6 @@ Once thats done, open the `bcryptDemo` application in Godot, and open the `bcryp
 ```
 
 Run the application to see the output.
+
+![image](https://user-images.githubusercontent.com/657135/200602997-d19859f4-2370-43a8-a373-c3fea6472eb5.png)
+
